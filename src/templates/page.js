@@ -121,7 +121,9 @@ export const PageTemplate = ({
             <section className="sec-article-list">
               <div className="pg-width">
                 <span className="label-eyebrow">{postsLabel || 'Latest Writing'}</span>
-                <PostFeed posts={recentPosts.slice(0, 3)} />
+                <div className="all-articles">
+                  <PostFeed posts={recentPosts.slice(0, 3)} />
+                </div>
               </div>
             </section>
           )}
