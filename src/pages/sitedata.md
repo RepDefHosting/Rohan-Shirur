@@ -1,31 +1,43 @@
 ---
 templateKey: site-data
 published: true
-name: Client Name
-jobTitle: Client's Job Title
-location: City, State, Country
-shortBio: "A brief 2–3 sentence bio that appears on the homepage. Write in the first person and keep it focused on your current role and expertise."
-longBio: ""
-sameAs:
-  - label: LinkedIn
-    url: https://www.linkedin.com
-  - label: Crunchbase
-    url: https://www.crunchbase.com
+name: Chandler Villacruz
+jobTitle: Marketing Strategist
+location: San Francisco, CA USA
 profileImage:
-  src: ""
-  alt: Client's headshot
-siteUrl: https://url.com
+  src: /img/screenshot-2026-06-04-at-2.29.23-pm.png
+  alt: Chandler Villacruz
+siteUrl: https://www.chandlervillacruz.com/
+siteAnalytics: null
+shortBio: Since joining the web-based restaurant review company in its startup
+  phase, Chandler Villacruz has spearheaded market research activities that have
+  allowed the firm to build effective advertising campaigns and achieve sound
+  business growth.
+longBio: >-
+  Since joining the web-based restaurant review company in its startup phase,
+  Chandler Villacruz has spearheaded market research activities that have
+  allowed the firm to build effective advertising campaigns and achieve sound
+  business growth.
+
+
+  Chandler Villacruz also led the Food Rates marketing team in creating a successful user rewards program that boosted online signups by 10,000 accounts in its first 30 days. For his achievements in his field, the San Francisco Business Times recognized him as one of its “40 Under 40” business leaders in 2014.
+
+
+  Chandler Villacruz launched his career at the San Francisco-based Healthy Living. After only six years with the firm, he advanced from his position of marketing associate to the role of marketing director.
+
+
+  Mr. Villacruz obtained a bachelor of business administration in marketing from the Mays Business School at Texas A&M University, where he pursued the Advertising Strategy career track. Subsequently, he earned a master of science in marketing at the University of Southern California.
 socialLinks:
   twitter:
-    url: https://www.x.com
+    url: https://twitter.com/chandlervcruz
     label: Visit
     show: true
   facebook:
     url: https://www.facebook.com
     label: Visit
-    show: true
+    show: false
   linkedin:
-    url: https://www.linkedin.com
+    url: https://www.linkedin.com/in/chandlervillacruz
     label: Visit
     show: true
   pinterest:
@@ -42,6 +54,8 @@ themeOptions:
   colorScheme: londn
   fontScheme: muli
   showThemeSwitcher: false
+sameAs:
+  - label: LinkedIn
+    url: https://www.linkedin.com/in/chandlervillacruz
 fallbackImage: /img/pic-executive-main-banner-01.webp
-siteAnalytics: null
 ---
