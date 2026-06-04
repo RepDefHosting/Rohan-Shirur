@@ -559,7 +559,6 @@ export const pageQuery = graphql`
         frontmatter: {
           templateKey: { eq: "press-post" }
           published: { ne: false }
-          featured: { ne: false }
         }
       }
       sort: { fields: [frontmatter___date], order: DESC }

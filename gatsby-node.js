@@ -57,6 +57,45 @@ exports.createSchemaCustomization = ({ actions }) => {
       favicon: File @fileByRelativePath
       fallbackImage: File @fileByRelativePath
       themeOptions: ThemeOptions
+      # sitedata fields
+      shortBio: String
+      longBio: String
+      sameAs: [SameAsItem]
+      # press post fields
+      publication: String
+      headline: String
+      url: String
+      featured: Boolean
+      logo: PressLogo
+      # homepage section toggles
+      showBio: Boolean
+      showSameAs: Boolean
+      showPosts: Boolean
+      showPress: Boolean
+      showGallery: Boolean
+      showCTA: Boolean
+      # section eyebrow labels
+      bioLabel: String
+      linksLabel: String
+      postsLabel: String
+      pressLabel: String
+      galleryLabel: String
+      ctaLabel: String
+      ctaHeadline: String
+      ctaBody: String
+      ctaButton: CTAButton
+    }
+    type SameAsItem {
+      label: String
+      url: String
+    }
+    type PressLogo {
+      src: String
+      alt: String
+    }
+    type CTAButton {
+      label: String
+      link: String
     }
     type LearnMoreButton {
       label: String!
@@ -118,7 +157,7 @@ exports.createPages = ({ graphql, actions }) => {
       allMarkdownRemark(
         filter: {
           frontmatter: {
-            templateKey: { nin: ["site-data", "menu-data"] }
+            templateKey: { nin: ["site-data", "menu-data", "press-post"] }
             published: { eq: true }
           }
         }
