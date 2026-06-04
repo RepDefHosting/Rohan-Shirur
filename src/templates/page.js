@@ -352,6 +352,7 @@ const Page = ({ data }) => {
     jobTitle,
     location,
     profileImage,
+    shortBio,
     sameAs: sameAsItems,
     socialLinks: { twitter, facebook, linkedin, pinterest, instagram },
   } = useSiteData()
@@ -392,7 +393,7 @@ const Page = ({ data }) => {
     slug,
     cssSlug: slug === '/' ? 'home' : slug.split('/').join('-'),
     missionStatement,
-    shortBiography,
+    shortBiography: shortBiography || shortBio,
     connectWithMe,
     discoverConnectExplore,
     longBiography_MD,
