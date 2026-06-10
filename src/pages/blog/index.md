@@ -3,9 +3,8 @@ templateKey: blog-archive
 pageSlug: /blog
 pageTitle: Blog
 subheader: null
-metaDescription: A blog is a type of website or online platform where
-  individuals or groups regularly post content, typically in the form of
-  articles, diary entries, or commentary on various topics.
+metaDescription: In 2024, Jennifer Neitzel joined the firm of Powell Banz
+  Valuation as a member of the appraiser staff.
 published: true
 schemaType: WebPage
 header: Blog
