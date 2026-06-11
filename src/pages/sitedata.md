@@ -32,7 +32,7 @@ longBio: >-
   Jennifer Neitzel holds a master of educational leadership from Portland State University and an elementary education degree with a minor in mathematics from Oregon State University. She will earn a certified general appraiser license from the Appraisal Institute and the state of Oregon in 2026.
 socialLinks:
   twitter:
-    url: https://twitter.com/chandlervcruz
+    url: https://twitter.com/
     label: Visit
     show: false
   facebook:
