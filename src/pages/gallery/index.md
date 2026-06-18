@@ -2,7 +2,7 @@
 templateKey: gallery-archive
 pageSlug: /gallery
 pageTitle: Gallery
-metaDescription: A Gallaery is a beautiful way to display photos and fund memories
+metaDescription: A collection of photographs/Images of Rohan Shirur.
 published: true
 schemaType: WebPage
 header: Gallery
