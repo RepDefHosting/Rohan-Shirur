@@ -2,8 +2,11 @@
 templateKey: index-page
 pageSlug: /
 pageTitle: Home
-metaDescription: "[Client Full Name] is a [Job Title] based in [Location]. This
-  is the official website and professional profile of [Client Full Name]."
+metaDescription: Rohan Shirur is a Florida State University graduate with a
+  biomathematics background interested in attending medical school with a focus
+  on research and patient-centered care. He combines quantitative training in
+  mathematical biology as well as active clinical experience and sustained
+  community service.
 published: true
 schemaType: WebPage
 featuredImage:
@@ -33,4 +36,4 @@ ctaButton:
   label: Send a Message
   link: mailto:hello@example.com
 ---
-[Client Full Name] is a [Job Title] based in [Location]. Replace this placeholder text with a brief overview that will appear on the homepage.
+Rohan Shirur is a Florida State University graduate with a biomathematics background interested in attending medical school with a focus on research and patient-centered care. He combines quantitative training in mathematical biology as well as active clinical experience and sustained community service.
