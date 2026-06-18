@@ -3,8 +3,11 @@ templateKey: blog-archive
 pageSlug: /blog
 pageTitle: Blog
 subheader: null
-metaDescription: In 2024, Jennifer Neitzel joined the firm of Powell Banz
-  Valuation as a member of the appraiser staff.
+metaDescription: Rohan Shirur is a Florida State University graduate with a
+  biomathematics background interested in attending medical school with a focus
+  on research and patient-centered care. He combines quantitative training in
+  mathematical biology as well as active clinical experience and sustained
+  community service.
 published: true
 schemaType: WebPage
 header: Blog
